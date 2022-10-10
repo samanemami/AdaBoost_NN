@@ -10,7 +10,7 @@ Includes the neural networks with the weighting method, which samples the instan
 
 ## AdaBoost
 
-As the [example]()(https://github.com/samanemami/AdaBoost_NN/blob/main/test/tes.py) shows, you only have to consider the Neural Network from the MLP as the base estimator and it will do the math.
+As the [example](https://github.com/samanemami/AdaBoost_NN/blob/main/test/tes.py) shows, you only have to consider the Neural Network from the MLP as the base estimator and it will do the math.
 
 ### Version
 
